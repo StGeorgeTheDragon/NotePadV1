@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     //TODO: add an option to delete notes permanently
     //TODO: try and migrate as much of this as possible to separate classes
+    //TODO: try and streamline the looks and operation
 
     private static final int MY_PERMISSION_REQUEST_WRITE_EXTERNAL_STORAGE = 1;
     private EditText editText;
